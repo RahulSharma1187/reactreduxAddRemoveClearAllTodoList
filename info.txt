@@ -1,0 +1,6 @@
+project run : yarn start
+
+React Redux use for :-
+Add ToDo List
+Remove ToDo List
+ClearAll ToDo List 
